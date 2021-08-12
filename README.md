@@ -1,4 +1,4 @@
-Attack, Defense, and Analysis of a Vulnerable Network
+Attacking, Defense, and Analysis of a Vulnerable Network
 
 The final project contains the following sections:
 
